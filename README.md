@@ -162,6 +162,7 @@ Jump to section:
 |[LogDNA](https://logdna.com/)|Log Management Software|Mountain View, CA|[LogDNA careers](https://logdna.com/culture-and-career/)|
 |[Magic Leap](https://www.magicleap.com/)|Augmented Reality|Plantation, FL|[Magic Leap careers](https://www.magicleap.com/careers)|
 |[Mark43](https://www.mark43.com/)|Public safety software|New York, NY|[Mark43 careers](https://www.mark43.com/careers/)|
+|[McKinsey](https://www.mckinsey.com/)|Management consulting|None|[Jobs](https://www.mckinsey.com/careers/search-jobs?functions=Technology&cities=Toronto)|
 |[Mozilla](https://mozilla.org)|Web browser|Mountain View, CA|[Mozilla jobs in Toronto](https://careers.mozilla.org/listings/?location=Toronto)|
 |[Nextdoor](https://nextdoor.com/)|Social Network|San Francisco, CA|[Nextdoor careers](https://about.nextdoor.com/careers/)|
 |[Nomis Solutions](https://www.nomissolutions.com/)|Fintech - Price Optimization|San Francisco, CA|[Nomis Careers](https://www.nomissolutions.com/about/job-postings)|
