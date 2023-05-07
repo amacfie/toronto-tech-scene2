@@ -208,6 +208,7 @@ Jump to section:
 |[Accenture](https://www.accenture.com)|Digital consulting|Dublin, Ireland|[Accenture careers](https://www.accenture.com/ca-en/Careers)|
 |[Apollo](https://www.apollographql.com/)|Open source GraphQL developer tools|San Francisco, CA|[Apollo careers](https://www.apollographql.com/careers)|
 |[Apple](https://www.apple.com/ca/)|Consumer electronics|Cupertino, CA|[Apple job search](https://jobs.apple.com/ca/search)|
+|[AssemblyAI](https://www.assemblyai.com/)|Speech to text|100% remote|[Jobs](https://www.assemblyai.com/careers)|
 |[Auth0](https://auth0.com/)|Identity access management|Seattle, WA|[Auth0 careers](https://auth0.com/careers)|
 |[Automattic](https://automattic.com/)|Website and e-commerce platform|All-remote|[Automattic Jobs](https://automattic.com/work-with-us/)|
 |[Big Bear Software](http://www.bigbearsoftware.ca/)|Custom software, websites, mobile apps|Penticton, BC|[Big Bear Software careers](http://bigbearcustomsoftware.com/careers/)|
