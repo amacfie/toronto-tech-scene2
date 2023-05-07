@@ -114,6 +114,7 @@ Jump to section:
 |[Wealthsimple](https://www.wealthsimple.com/en-ca/)|Finance, investment|[Wealthsimple careers](https://www.wealthsimple.com/en-ca/work-with-us)|
 |[WGames](https://wgames.com/)|Game Development|[WGames careers](https://wgames.com/#perks)|
 |[Xanadu](https://www.xanadu.ai/)|Photonic Quantum Computing and Advanced AI|[Xanadu careers](https://www.xanadu.ai/careers/)|
+|[Yuhu](https://yuhu.io/)|Proptech - Property Management Software|[Job board](https://yuhu.applytojobs.ca/)|
 
 # Tech Companies with an Office in Toronto
 
