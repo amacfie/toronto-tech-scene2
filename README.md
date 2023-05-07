@@ -11,6 +11,7 @@ Jump to section:
 |[500px](https://500px.com/)|Photography|[500px careers](https://about.500px.com/jobs/)|
 |[Ada](https://ada.support/)|AI chatbot|[Ada careers](https://boards.greenhouse.io/ada)|
 |[Adracare Inc](https://adracare.com/)|Virtual Healthcare|[Adracare careers](https://angel.co/company/adracare/jobs)|
+|[Agnostiq](https://agnostiq.ai/)|HPC|[Careers](https://jobs.lever.co/agnostiq)|
 |[Ample Organics](https://ampleorganics.com)|Cannabis software solution|[Ample Organics careers](https://www.ampleorganics.com/careers)|
 |[Archon](http://www.archonsystems.com/)|Small business software|[Archon careers](http://www.archonsystems.com/career.html)|
 |[Arctiq](https://arctiq.ca)|DevOps and Open source solutions provider|[Careers](https://www.arctiq.ca/careers/)|
