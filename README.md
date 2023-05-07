@@ -229,6 +229,7 @@ Jump to section:
 |[PacerPro](https://www.pacerpro.com/)|Court litigation management software|San Francisco, CA|[PacerPro on LinkedIn](https://www.linkedin.com/company/pacerpro/)|
 |[Polymath](https://www.polymath.network)|Blockchain / Financial Services|Barbados|[Polymath careers](https://polymath.bamboohr.com/jobs/)|
 |[Protocol Labs](https://protocol.ai/)|Internet protocols and tools|No HQ (fully remote)|[Protocol Labs careers](https://protocol.ai/join/)|
+|[QuestDB](https://questdb.io)|Time-series database|Remote|[Jobs](https://questdb.io/careers/)
 |[Red Hat](https://www.redhat.com/)|Linux, Middleware, Open Source|Raleigh, NC|[Red Hat careers](https://www.redhat.com/en/jobs)
 |[Rivalry.gg](https://www.rivalry.gg/)|Esports betting|Isle of Man|[Rivalry.gg on LinkedIn](https://www.linkedin.com/company/rivalry-ltd/)|
 |[Stack Overflow](https://stackoverflow.com)|Developer Q&A|New York, NY|[Stack Overflow - Work Here](https://stackoverflow.com/company/work-here)|
