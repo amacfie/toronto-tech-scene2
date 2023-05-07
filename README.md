@@ -12,6 +12,7 @@ Jump to section:
 |[Ada](https://ada.support/)|AI chatbot|[Ada careers](https://boards.greenhouse.io/ada)|
 |[Ample Organics](https://ampleorganics.com)|Cannabis software solution|[Ample Organics careers](https://www.ampleorganics.com/careers)|
 |[Archon](http://www.archonsystems.com/)|Small business software|[Archon careers](http://www.archonsystems.com/career.html)|
+|[Arctiq](https://arctiq.ca)|DevOps and Open source solutions provider|[Careers](https://www.arctiq.ca/careers/)|
 |[Autonomic](https://autonomic.ai/)|Technology for transit and mobility|[Autonomic careers](https://autonomic.ai/careers)|
 |[Avail](https://avail.app/)|Personal Health Assistant|[Avail careers](https://avail.breezy.hr/)|
 |[BenchSci](https://www.benchsci.com/)|Machine learning for antibody search|[BenchSci careers](https://benchsci.bamboohr.com/jobs/)|
