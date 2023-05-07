@@ -85,11 +85,11 @@ Jump to section:
 |[Sensibill](https://getsensibill.com/)|Digital Receipt Management for Digital Banking Apps|[Sensibill careers](https://getsensibill.com/careers)|
 |[Setter](https://setter.com/)|Home maintenance, personal assistant|[Setter careers](https://setter.breezy.hr/)|
 |[SickKids Research](https://www.sickkids.ca/Research/)|Biotech, A.I., high-performance computing (HPC), IT|[SickKids careers](https://www.sickkids.ca/CareersVolunteering/careers/)|
-|[SnapTravel](https://www.snaptravel.com/)|Chat-based travel booking|[SnapTravel careers](https://www.snaptravel.com/careers)|
 |[Soroc](https://www.soroc.com/)|IT solutions|[Soroc careers](https://soroc.com/careers/#/jobs)|
 |[StackAdapt](https://www.stackadapt.com/)|Advertising & Marketing|[StackAdapt careers](https://www.stackadapt.com/careers)|
 |[Strategic Mapping](http://www.mapstrat.com/)|Public Transit Technology|[Strategic Mapping careers](http://www.mapstrat.com/careers.html)|
 |[Structura Biotechnology](https://structura.bio/)|Biotech|[Structura careers](https://structura.bio/#careers)|
+|[Super](https://www.super.com/)|Travel, rewards|[Open roles](https://jobs.lever.co/super-com)|
 |[Taplytics](https://taplytics.com/)|Customer engagement platform|[Taplytics careers](https://taplytics.com/careers/)|
 |[Ten Thousand Coffees](https://www.tenthousandcoffees.com/)|Mentoring and Networking|[Ten Thousand Coffees careers](https://secure.collage.co/jobs/tenthousandcoffees)|
 |[theScore](http://www.thescore.com/)|Sports fan’s experience|[theScore careers](http://mobile.thescore.com/careers/)|
