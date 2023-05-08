@@ -74,6 +74,7 @@ Jump to section:
 |[Oanda](https://www1.oanda.com/)|ForEx platform|[Oanda careers](https://www.oanda.com/group/culture/job-openings/)|
 |[OneClass](https://oneclass.com/)|Education, learning platform|[OneClass jobs](https://oneclass.com/jobs.en.html)|
 |[Opencare](https://www.opencare.com/)|Healthcare, dental care|[Opencare careers](https://www.opencare.com/careers)|
+|[Orium](https://orium.com/)|E-commerce development|[Jobs](https://orium.com/careers#:~:text=experiences%20more%20enjoyable.-,Current%20Openings,-Design)|
 |[PathCore](https://pathcore.com/)|Digital pathology software|[PathCore careers](https://pathcore.freshteam.com/jobs)|
 |[PathFactory](https://pathfactory.com)|Marketing (content)|[PathFactory careers](https://pathfactory.com/careers)|
 |[Paytm Labs](https://paytm.ca)|Fintech / Mobile Payments|[Paytm careers](https://jobs.lever.co/paytm)|
