@@ -157,6 +157,7 @@ Jump to section:
 |[Index Exchange](https://www.indexexchange.com/)|Ad tech|New York, NY|[Index Exchange careers](https://www.indexexchange.com/careers/)|
 |[Instacart](https://www.instacart.ca/)|Online grocery delivery|San Francisco, CA|[Instacart careers](https://careers.instacart.com/)|
 |[Intel](https://www.intel.com/)|Processors, SoC, FPGA|Santa Clara, CA|[Intel Jobs Toronto](https://jobs.intel.com/ListJobs/All/Country-CA/State-ON/City-Toronto/)|
+|[Iversoft](https://iversoft.ca/)|App development|Ottawa, ON|[Jobs](https://iversoft.ca/careers-at-iversoft/)|
 |[Jobber](https://getjobber.com/)|Field service software|Edmonton, AB|[Jobber careers](https://getjobber.com/careers/)|
 |[Kindred](https://www.kindred.ai/)|Robotics|San Francisco, CA|[Kindred careers](https://www.kindred.ai/careers)|
 |[Lever](https://www.lever.co)|Recruiting software|San Francisco, CA|[Lever jobs in Toronto](https://www.lever.co/careers-toronto)|
