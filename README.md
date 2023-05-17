@@ -141,6 +141,7 @@ Jump to section:
 |[Cadre](https://cadre.com/)|Real estate investment|New York, NY|[Cadre careers](https://cadre.com/careers)|
 |[Cerebras](https://www.cerebras.net/)|AI hardware|Los Altos, CA|[Cerebras careers](https://www.cerebras.net/careers/)|
 |[CircleCI](https://circleci.com/)|Continuous integration, continuous delivery|San Francisco, CA|[CircleCI careers](https://circleci.com/jobs/)|
+|[Cisco](https://www.cisco.com/site/ca/en/index.html)|Networking|San Jose, CA|[Ontario jobs](https://jobs.cisco.com/jobs/SearchJobs/?21178=%5B207800%5D&21178_format=6020&21179=%5B12229363%5D&21179_format=6021&listFilterMode=1)|
 |[Cohesity](https://cover.com/)|Data backup, Data storage|San Jose, CA|[Cohesity careers](https://www.cohesity.com/company/careers/open-positions/)|
 |[Consensys](https://new.consensys.net/)|Blockchain|Brooklyn, NY|[Consensys careers](https://new.consensys.net/careers/)|
 |[Coursera](https://www.coursera.org/)|Online Learning Platform|Mountain View, CA|[Coursera careers](https://about.coursera.org/careers/opportunities/)|
