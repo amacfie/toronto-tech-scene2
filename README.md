@@ -39,6 +39,7 @@ Jump to section:
 |[eBlock](https://www.eblock.ca/)|Online car auction|[eBlock on LinkedIn](https://www.linkedin.com/company/eblock-inc./)|
 |[ecobee](https://www.ecobee.com/)|Smart home technology|[ecobee careers](https://www.ecobee.com/careers/)|
 |[EnergyX](https://www.energyxsolutions.com/)|Software for utility companies|[EnergyX careers](https://www.energyxsolutions.com/careers)|
+|[Evenset](https://www.evenset.com/)|Medical software|[Careers](https://www.evenset.com/careers/)|
 |[EventMobi](https://www.eventmobi.com/)|Mobile event apps|[EventMobi careers](https://www.eventmobi.com/careers/)|
 |[Fiix](https://www.fiixsoftware.com/)|Computerized maintenance management system|[Fiix careers](https://www.fiixsoftware.com/careers/)|
 |[FinanceIT](https://www.financeit.io/)|Point-of-sale consumer financing|[FinanceIT careers](https://www.financeit.io/ca/en/careers)|
@@ -48,6 +49,7 @@ Jump to section:
 |[FreshBooks](https://www.freshbooks.com/)|Accounting, invoicing|[FreshBooks careers](https://www.freshbooks.com/careers)|
 |[FundThrough](https://www.fundthrough.com/)|Finance, funding, invoicing|[FundThrough careers](https://fundthrough.humi.ca/job-board)|
 |[Gene42](https://gene42.com/)|Genetics, precision medicine|[Gene42 careers](https://angel.co/gene42/jobs)|
+|[GoBolt](https://www.gobolt.com/)|Truck Transportation|[Jobs](https://www.gobolt.com/careers/)|
 |[HiMama](https://www.himama.com/)|Daycare app|[HiMama careers](https://jobs.lever.co/himama?team=Product%20%26%20Engineering)|
 |[Hubba](https://www.hubba.com/)|B2B (business to business) e-commerce|[Hubba careers](https://hq.hubba.com/careers)|
 |[Hubdoc](https://www.hubdoc.com/)|Document collection software|[Hubdoc jobs](https://www.hubdoc.com/jobs)|
@@ -64,6 +66,7 @@ Jump to section:
 |[Loblaw Digital](http://loblawdigital.co/)|Ecommerce, Retail|[Loblaw Digital](http://loblawdigital.co/careers/)|
 |[Loopio](https://loopio.com/)|RFP Response Software Experts|[Loopio careers](https://loopio.com/careers/)|
 |[Maple](https://www.getmaple.ca/)|Telemedicine|[Maple jobs](https://angel.co/company/getmaple/jobs)|
+|[ModiFace](https://modiface.com/)|Makeup Virtual Try On|[LinkedIn](https://www.linkedin.com/jobs/modiface-jobs-worldwide)|
 |[Muse](http://www.choosemuse.com/)|Brain sensing headband|[Muse careers](http://www.choosemuse.com/careers/)|
 |[Northern Block](https://www.northernblock.ca/)|Blockchain|[Northern Block careers](https://www.northernblock.ca/join)|
 |[NorthOne](https://www.northone.com/)|SMB Checking Account|[NorthOne Careers](https://www.northone.com/us/en/team#careers)|
@@ -85,6 +88,7 @@ Jump to section:
 |[Properly](https://goproperly.com)|Real estate|[Properly jobs](https://boards.greenhouse.io/properly)|
 |[ProteinQure](https://www.proteinqure.com/)|Biotech|[ProteinQure careers](https://www.proteinqure.com/careers.html)|
 |[Quandl](https://quandl.com)|Financial data|[Quandl careers](https://www.quandl.com/careers)|
+|[Quartermaster](https://www.quartermaster.house/)|Home maintenance booking|[Careers](https://www.quartermaster.house/careers)|
 |[Rangle.io](https://rangle.io)|Product Development|[Rangle careers](https://rangle.io/careers)|
 |[RBC Ventures](https://www.rbcventures.ca/)|Business financing, new ventures|[RBC Ventures careers](https://www.rbcventures.ca/careers)|
 |[Resemble AI](https://www.resemble.ai/)|Text to speech|[Resemble AI Jobs](https://angel.co/company/resembleai/jobs)|
