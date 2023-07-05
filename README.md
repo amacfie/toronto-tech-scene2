@@ -152,7 +152,7 @@ Jump to section:
 |[Coursera](https://www.coursera.org/)|Online Learning Platform|Mountain View, CA|[Coursera careers](https://about.coursera.org/careers/opportunities/)|
 |[Cover](https://cover.com/)|Insurance quote app|San Francisco, CA|[Cover careers](https://cover.com/careers)|
 |[Databricks](https://databricks.com/)|Data Analytics Platform|San Francisco, CA|[Databricks careers](https://databricks.com/company/careers)|
-|[Deliverect](https://www.deliverect.com/en-ca)|Food delivery|[Jobs](https://jobs.lever.co/deliverect)|
+|[Deliverect](https://www.deliverect.com/en-ca)|Food delivery|Belgium|[Jobs](https://jobs.lever.co/deliverect)|
 |[eBay](https://www.ebay.ca/)|E-commerce, online auction (includes [Kijiji](https://www.kijiji.ca/)!)|San Jose, CA|[eBay careers in Toronto](https://careers.ebayinc.com/join-our-team/start-your-search/find-jobs-by-location/detail/canada)|
 |[Element AI](https://www.elementai.com/careers)|AI Product Provider|Montreal, QC|[Element AI careers](https://www.elementai.com/careers)|
 |[Etsy](https://www.etsy.com/)|E-commerce for unique goods|Brooklyn, NY|[Etsy careers](https://www.etsy.com/careers)|
