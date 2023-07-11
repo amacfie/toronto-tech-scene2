@@ -231,6 +231,7 @@ Jump to section:
 |[Elastic](https://www.elastic.co/)|Open source search, logs, analytics|Mountain View, CA|[Elastic careers](https://www.elastic.co/about/careers)|
 |[Exodus Intelligence](https://exodusintel.com/)|Vulnerability research|Austin, TX|[Careers](https://exodusintel.com/careers.html)|
 |[Fastly](https://www.fastly.com/)|Edge cloud platform, CDN|San Francisco, CA|[Fastly careers](https://www.fastly.com/about/careers)|
+|[Fathom](https://fathom.video/)|AI meeting assistant|San Francisco, CA|[Work at a Startup page](https://www.workatastartup.com/companies/fathom)|
 |[GitHub](https://github.com/)|Development platform: code hosting, version control|San Francisco, CA|[GitHub careers](https://github.com/about/careers)|
 |[Gitlab](https://gitlab.com)|Development platform: Version control, CI/CD |San Francisco, CA|[Gitlab careers](https://about.gitlab.com/jobs/)|
 |[HashiCorp](https://www.hashicorp.com/)|Infrastructure provisioning tools|San Francisco, CA|[HashiCorp careers](https://www.hashicorp.com/jobs)|
