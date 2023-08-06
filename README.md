@@ -122,6 +122,7 @@ Jump to section:
 |[Unata](https://unata.com/)|Online Grocery platform|[Unata careers](https://unata.com/about/careers/)|
 |[Universe](https://universe.com/)|Ticket sales|[Universe careers](https://careers.universe.com)|
 |[Vena Solutions](https://venasolutions.com)|Business solutions software|[Vena Solutions careers](https://careers.venasolutions.com/)|
+|[VR Vision](https://vrvisiongroup.com/)|VR-based training systems|[Jobs page](https://vrvisiongroup.com/careers/#hiring)|
 |[Wattpad](https://www.wattpad.com/)|Community for reading, writing, publishing|[Wattpad careers](https://company.wattpad.com/work-at-wattpad)|
 |[Wave](https://www.waveapps.com)|Financial software for small businesses|[Wave careers](https://www.waveapps.com/about-us/jobs/)|
 |[Wealthsimple](https://www.wealthsimple.com/en-ca/)|Finance, investment|[Wealthsimple careers](https://www.wealthsimple.com/en-ca/work-with-us)|
