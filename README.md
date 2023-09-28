@@ -66,7 +66,6 @@ Jump to section:
 |[Maple](https://www.getmaple.ca/)|Telemedicine|[Maple jobs](https://angel.co/company/getmaple/jobs)|
 |[ModiFace](https://modiface.com/)|Makeup Virtual Try On|[LinkedIn](https://www.linkedin.com/jobs/modiface-jobs-worldwide)|
 |[Muse](http://www.choosemuse.com/)|Brain sensing headband|[Muse careers](http://www.choosemuse.com/careers/)|
-|[Northern Block](https://www.northernblock.ca/)|Blockchain|[Northern Block careers](https://www.northernblock.ca/join)|
 |[NorthOne](https://www.northone.com/)|SMB Checking Account|[NorthOne Careers](https://www.northone.com/us/en/team#careers)|
 |[Nudge](https://nudge.co/)|Retail engagement app|[Nudge careers](https://nudge.co/company/careers/)|
 |[Nulogy](https://www.nulogy.com/)|Supply chain|[Nulogy careers](https://nulogy.com/about/careers/)|
