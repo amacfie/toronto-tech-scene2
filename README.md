@@ -145,6 +145,7 @@ Jump to section:
 |[Cerebras](https://www.cerebras.net/)|AI hardware|Los Altos, CA|[Cerebras careers](https://www.cerebras.net/careers/)|
 |[CircleCI](https://circleci.com/)|Continuous integration, continuous delivery|San Francisco, CA|[CircleCI careers](https://circleci.com/jobs/)|
 |[Cisco](https://www.cisco.com/site/ca/en/index.html)|Networking|San Jose, CA|[Ontario jobs](https://jobs.cisco.com/jobs/SearchJobs/?21178=%5B207800%5D&21178_format=6020&21179=%5B12229363%5D&21179_format=6021&listFilterMode=1)|
+|[Cockroach Labs](https://www.cockroachlabs.com/)|Distributed database|New York, NY|[Cockroach Labs careers](https://www.cockroachlabs.com/careers/)|
 |[Cohesity](https://cover.com/)|Data backup, Data storage|San Jose, CA|[Cohesity careers](https://www.cohesity.com/company/careers/open-positions/)|
 |[Consensys](https://new.consensys.net/)|Blockchain|Brooklyn, NY|[Consensys careers](https://new.consensys.net/careers/)|
 |[Coursera](https://www.coursera.org/)|Online Learning Platform|Mountain View, CA|[Coursera careers](https://about.coursera.org/careers/opportunities/)|
@@ -220,7 +221,6 @@ Jump to section:
 |[Automattic](https://automattic.com/)|Website and e-commerce platform|All-remote|[Automattic Jobs](https://automattic.com/work-with-us/)|
 |[Big Bear Software](http://www.bigbearsoftware.ca/)|Custom software, websites, mobile apps|Penticton, BC|[Big Bear Software careers](http://bigbearcustomsoftware.com/careers/)|
 |[Close.io](https://close.io/)|CRM / Sales communication platform|All-remote|[Close.io jobs](http://jobs.close.io/)|
-|[Cockroach Labs](https://www.cockroachlabs.com/)|Distributed database|New York, NY|[Cockroach Labs careers](https://www.cockroachlabs.com/careers/)|
 |[Coinbase](https://www.coinbase.com/)|Crypto Exchange|All-remote|[Coinbase careers](https://www.coinbase.com/careers/positions)|
 |[Commit](https://commit.dev/careers/)|Recruiting|All-remote|[Jobs](https://commit.dev/careers/)|
 |[Confluent](https://www.confluent.io/)|Enterprise Kafka, streaming applications|Palo Alto, CA|[Confluent careers](https://www.confluent.io/careers/)|
