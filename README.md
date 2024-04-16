@@ -207,7 +207,7 @@ Jump to section:
 |[Turbonomic](https://turbonomic.com/)|Workload automation for the cloud|Boston, MA|[Turbonomic careers](https://turbonomic.com/company/careers/)|
 |[Uber](https://www.uber.com/ca/en/)|ride-sharing, food delivery, self-driving cars|San Francisco, CA|[Uber Careers](https://www.uber.com/ca/en/careers/list/?department=Engineering&location=CAN-Ontario-Toronto)
 |[Verint](https://www.verint.com/careers/index.html)|Business solutions, customer engagement management|Huntington, NY|[Verint careers](https://www.verint.com/careers/index.html)|
-|[Veeva Systems](https://www.veeva.co/)|Cloud-based pharamaceutical industry applications|Pleasanton, CA|[Veeva Systems careers](https://www.veeva.com/meet-veeva/careers-toronto/)|
+|[Veeva Systems](https://www.veeva.com/)|Cloud-based pharamaceutical industry applications|Pleasanton, CA|[Veeva Systems careers](https://www.veeva.com/meet-veeva/careers-toronto/)|
 |[Vision Critical](https://www.visioncritical.com/)|CRM software, machine learning|Vancouver, BC|[Vision Critical careers](https://www.visioncritical.com/careers/)|
 |[VTS](https://www.vts.com/)|Leasing and Asset Management Platform|New York, NY|[VTS careers](https://www.vts.com/careers)|
 |[Wish](https://www.wish.com)|E-commerce|San Francisco, CA|[Wish careers](https://www.wish.com/careers/jobs)|
