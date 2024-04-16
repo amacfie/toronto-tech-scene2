@@ -27,6 +27,7 @@ Jump to section:
 |[CareGuide](https://www.careguide.com/)|Care services|[CareGuide team](https://careguide.com/team)|
 |[Chisel AI](https://www.chisel.ai/)|NLP for insurance documents|[Work at Chisel AI](https://www.chisel.ai/work-at-chisel)|
 |[Cluep](https://cluep.com/)|AdTech|[Cluep careers](https://cluep.com/careers/)|
+|[Clutch](https://www.clutch.ca/)|Online vehicle retailer|[Clutch careers](https://www.clutch.ca/careers/apply)|
 |[CoHealth](https://cohealthapp.com/)|Healthcare data management|[CoHealth on AngelList](https://angel.co/company/cohealthapp)|
 |[Coinsquare](https://coinsquare.com/)|Cryptocurrency exchange|[Coinsquare careers](https://coinsquare.com/careers)|
 |[Connected](https://www.connected.io/)|Product development firm|[Connected careers](https://www.connected.io/careers)|
@@ -42,6 +43,7 @@ Jump to section:
 |[Fiix](https://www.fiixsoftware.com/)|Computerized maintenance management system|[Fiix careers](https://www.fiixsoftware.com/careers/)|
 |[FinanceIT](https://www.financeit.io/)|Point-of-sale consumer financing|[FinanceIT careers](https://www.financeit.io/ca/en/careers)|
 |[Flipp](https://www.flipp.com/)|Retail technology|[Flipp careers](https://corp.flipp.com/careers)|
+|[Float](https://floatcard.com/)|Corporate cards and spend management|[Float careers](https://apply.workable.com/floatcard/)|
 |[Forma AI](https://www.forma.ai/)|Variable Incentive Compensation Automation|[Jobs](https://www.forma.ai/careers/)|
 |[Format](https://www.format.com/)|Online portfolio platform|[Format jobs](https://www.format.com/jobs)|
 |[FreshBooks](https://www.freshbooks.com/)|Accounting, invoicing|[FreshBooks careers](https://www.freshbooks.com/careers)|
@@ -63,6 +65,7 @@ Jump to section:
 |[Leap Tools](http://www.leaptools.com/)|Product visualization|[Openings](https://leap-tools.breezy.hr/)|
 |[Loblaw Digital](http://loblawdigital.co/)|Ecommerce, Retail|[Loblaw Digital](http://loblawdigital.co/careers/)|
 |[Loopio](https://loopio.com/)|RFP Response Software Experts|[Loopio careers](https://loopio.com/careers/)|
+|[Loop Financial](https://www.bankonloop.com/)|Online banking platform|[Loop Financial careers](https://wellfound.com/company/bankonloop/jobs)|
 |[Maple](https://www.getmaple.ca/)|Telemedicine|[Maple jobs](https://angel.co/company/getmaple/jobs)|
 |[ModiFace](https://modiface.com/)|Makeup Virtual Try On|[LinkedIn](https://www.linkedin.com/jobs/modiface-jobs-worldwide)|
 |[Muse](http://www.choosemuse.com/)|Brain sensing headband|[Muse careers](http://www.choosemuse.com/careers/)|
@@ -88,6 +91,7 @@ Jump to section:
 |[Quartermaster](https://www.quartermaster.house/)|Home maintenance booking|[Careers](https://www.quartermaster.house/careers)|
 |[Rangle.io](https://rangle.io)|Product Development|[Rangle careers](https://rangle.io/careers)|
 |[RBC Ventures](https://www.rbcventures.ca/)|Business financing, new ventures|[RBC Ventures careers](https://www.rbcventures.ca/careers)|
+|[Relay](https://relayfi.com/)|Money management platform|[Relay careers](https://relayfi.com/careers)|
 |[Resemble AI](https://www.resemble.ai/)|Text to speech|[Resemble AI Jobs](https://angel.co/company/resembleai/jobs)|
 |[Riskfuel](https://riskfuel.com)|Finance computation|[Jobs](https://riskfuel.com/company-page/)|
 |[Ritual](https://www.ritual.co/)|Online food ordering|[Ritual careers](https://www.ritual.co/careers)|
@@ -203,6 +207,7 @@ Jump to section:
 |[Turbonomic](https://turbonomic.com/)|Workload automation for the cloud|Boston, MA|[Turbonomic careers](https://turbonomic.com/company/careers/)|
 |[Uber](https://www.uber.com/ca/en/)|ride-sharing, food delivery, self-driving cars|San Francisco, CA|[Uber Careers](https://www.uber.com/ca/en/careers/list/?department=Engineering&location=CAN-Ontario-Toronto)
 |[Verint](https://www.verint.com/careers/index.html)|Business solutions, customer engagement management|Huntington, NY|[Verint careers](https://www.verint.com/careers/index.html)|
+|[Veeva Systems](https://www.veeva.com/)|Cloud-based pharamaceutical industry applications|Pleasanton, CA|[Veeva Systems careers](https://www.veeva.com/meet-veeva/careers-toronto/)|
 |[Vision Critical](https://www.visioncritical.com/)|CRM software, machine learning|Vancouver, BC|[Vision Critical careers](https://www.visioncritical.com/careers/)|
 |[VTS](https://www.vts.com/)|Leasing and Asset Management Platform|New York, NY|[VTS careers](https://www.vts.com/careers)|
 |[Wish](https://www.wish.com)|E-commerce|San Francisco, CA|[Wish careers](https://www.wish.com/careers/jobs)|
